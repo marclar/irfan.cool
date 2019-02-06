@@ -1,0 +1,20 @@
+{
+  "name": "irfan.cool",
+  "version": "1.0.0",
+  "description": "Irfan: Cool?",
+  "main": "index.js",
+  "scripts": {
+    "build": "cp src/index.html dist/index.html",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marclar/irfan.cool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marclar/irfan.cool/issues"
+  },
+  "homepage": "https://github.com/marclar/irfan.cool#readme"
+}
