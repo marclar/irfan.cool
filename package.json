@@ -4,7 +4,7 @@
   "description": "Irfan: Cool?",
   "main": "index.js",
   "scripts": {
-    "build": "cp src/index.html dist/index.html",
+    "build": "cp -R src dist",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
